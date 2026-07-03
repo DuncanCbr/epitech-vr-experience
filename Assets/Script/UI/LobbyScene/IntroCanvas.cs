@@ -21,6 +21,9 @@ public class IntroCanvas : MonoBehaviour
         yield return new WaitForSeconds(displayDuration);
         yield return StartCoroutine(Fade(1f, 0f, canvasGroupImage));
         yield return StartCoroutine(Fade(1f, 0f, canvasGroupBlackScreen));
+        
+        SoundLobby.Instance.StartAmbianceLobbySound();
+        
         gameObject.SetActive(false);
         canvasBlackScreen.SetActive(false);
     }
