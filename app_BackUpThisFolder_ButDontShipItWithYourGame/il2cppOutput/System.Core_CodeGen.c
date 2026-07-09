@@ -7,53 +7,7 @@
 
 
 
-extern void SR_GetString_m2213C501E26D6A1AE8D0644E9685AF8A4204CA7F (void);
 extern void SR_Format_m7198B645F5C0A5E33F30AEF003C1F1D1415A9F86 (void);
-extern void AesManaged__ctor_mDE017C6ECB4AF587B6C2A7A4BCBB2E0FA3E81241 (void);
-extern void AesManaged_get_FeedbackSize_m64E5628557B4EF7068388EE50E431E102BA48CF9 (void);
-extern void AesManaged_get_IV_m3CF0BDF7CC0EA199B5EE57F2CBD97404842C0D0B (void);
-extern void AesManaged_set_IV_m7063E5F586634E8B2C1DB1FD9D8D745BFAFD57A7 (void);
-extern void AesManaged_get_Key_m2E60F74962BECA399636BDC297DF3AD2386D92DF (void);
-extern void AesManaged_set_Key_m4FC5EDB90F6003EE726496D1A374AD0AD5B9911D (void);
-extern void AesManaged_get_KeySize_mD9766E2E53FB15EA3761BF801D3ED2BC938A667F (void);
-extern void AesManaged_set_KeySize_m2E4BE0748CCF8473E2AFE656DFBB143845FD1BE7 (void);
-extern void AesManaged_get_Mode_m3B58BE00374E135C8B9F27B1CD481B91E59993E5 (void);
-extern void AesManaged_set_Mode_m154C8319F26FA466C54C7B2BDA602909EEA258C0 (void);
-extern void AesManaged_get_Padding_mF366F82D52635E2A5DA750541D7903E5FF1659C2 (void);
-extern void AesManaged_set_Padding_m9D52DA6A45835F49CC4385AC2767AA3A83C01BE3 (void);
-extern void AesManaged_CreateDecryptor_m68C406635252C68B27FBDB1356574A3B5DEE25DB (void);
-extern void AesManaged_CreateDecryptor_m3E4110743E227B1B7568B7D497573631E26C3246 (void);
-extern void AesManaged_CreateEncryptor_mBC3DC59E0DF5DC791B45806DE319EAF3DDB0E646 (void);
-extern void AesManaged_CreateEncryptor_mB200E46332CFFD19367E042932042F4A1DFFD5AF (void);
-extern void AesManaged_Dispose_m2C247F5F1B5CCB32C545F4DEE427295C801D7619 (void);
-extern void AesManaged_GenerateIV_m3B6E3EEFAA38CEF038DA0D5FF64B1B120343EBF4 (void);
-extern void AesManaged_GenerateKey_m6AC884BFD7DEA4A22DAD79479E69DF34BED96B33 (void);
-extern void AesCryptoServiceProvider__ctor_m9D6C427427E5B697AE1C37D2BFCAEF0BECB6C198 (void);
-extern void AesCryptoServiceProvider_GenerateIV_mE464DEEC37B9CA36588D409C16AEF59E4B570239 (void);
-extern void AesCryptoServiceProvider_GenerateKey_m1168A3D594466B39BFB601A670B444E05A1AA3D2 (void);
-extern void AesCryptoServiceProvider_CreateDecryptor_mEF140D70C76BF0EBCD5B70270E590C87AC82691B (void);
-extern void AesCryptoServiceProvider_CreateEncryptor_m5974B7BE1CBA7D7CEA83DA32396470FDA6F89817 (void);
-extern void AesCryptoServiceProvider_get_IV_m2FC301A6EB3295F1D815884C7DB9A6D250B5C748 (void);
-extern void AesCryptoServiceProvider_set_IV_m33319C5603EE9537BA68A62AEE48AB3971FFDED0 (void);
-extern void AesCryptoServiceProvider_get_Key_mC5E58ADED610CDB91EC45DD8F5ED5C7100F57763 (void);
-extern void AesCryptoServiceProvider_set_Key_mE9C9F3CADC14E6E6AAD77C7EAB16CD12BDD65A72 (void);
-extern void AesCryptoServiceProvider_get_KeySize_m1CA3AF07D7F43FD7E53501B4CC147FDE40105237 (void);
-extern void AesCryptoServiceProvider_set_KeySize_mCA930D57B9D87A2FCDA3EA3F64C0BA6AFB9DD5FE (void);
-extern void AesCryptoServiceProvider_get_FeedbackSize_mA75F139C56BE26803358D8F55F503C440CF60896 (void);
-extern void AesCryptoServiceProvider_get_Mode_m2C4AF6018029680736D3CC1677844A5E07C2C8AC (void);
-extern void AesCryptoServiceProvider_set_Mode_m8A46A629A129042D257241F376A5ADF7399E0E4D (void);
-extern void AesCryptoServiceProvider_get_Padding_m0970C4CE846AA57A6ED95AFAED915A2511188F8E (void);
-extern void AesCryptoServiceProvider_set_Padding_m4B055E68544EC094942F624AA7725B5DDE383994 (void);
-extern void AesCryptoServiceProvider_CreateDecryptor_mF13EB3E91096FD373E2FEAC578BD8E5A51D16289 (void);
-extern void AesCryptoServiceProvider_CreateEncryptor_m6FBFBED01A28E05CB49165B5E5A73302B9FF99D1 (void);
-extern void AesCryptoServiceProvider_Dispose_mA4070CD6F1FE6E6BDFE951DB89A5945E69E5C6F1 (void);
-extern void AesTransform__ctor_mE07BFBE72989989ACB3B6E9B8E9E721C9C506230 (void);
-extern void AesTransform_ECB_mDDB23F9CE0C18DC39E4CDB8EB2B3BADE8720D9E4 (void);
-extern void AesTransform_SubByte_m60B33BA16B1E903228D4E1D617406447361AF4B9 (void);
-extern void AesTransform_Encrypt128_m13E7312EDC83EA276711B00930214389563B443D (void);
-extern void AesTransform_Decrypt128_m816017B5640FB6B39593703AE4468166D52C88BE (void);
-extern void AesTransform__cctor_m79025F31553E42B9E7035CCC3263B58528C69045 (void);
-extern void RSACertificateExtensions_GetRSAPublicKey_m8DDF940D409724E136FD6E36146F4E481DC07B54 (void);
 extern void Error_ArgumentNull_m1141D2C9AF8AB6ACC45E7488789598C5283D4EEE (void);
 extern void Error_ArgumentOutOfRange_m7B22062E664153625DA782374A7CB9CBD3B2C01D (void);
 extern void Error_NoElements_m49C996124733B026EA2FDBE9382AAD136CA22362 (void);
@@ -85,55 +39,9 @@ extern void BitHelper__ctor_m795A92E9A03F57547FD78A8E50F730C2778DDD19 (void);
 extern void BitHelper_MarkBit_m12EFF71C5444F4E4D076F514C0C0723B39E50F86 (void);
 extern void BitHelper_IsMarked_m0A02826959B4EF6381B8F6C7DF0EDBFC55EE8EF2 (void);
 extern void BitHelper_ToIntArrayLength_m59204C3775D26A8B9532246C2F384C92D02E713C (void);
-static Il2CppMethodPointer s_methodPointers[383] = 
+static Il2CppMethodPointer s_methodPointers[335] = 
 {
-	SR_GetString_m2213C501E26D6A1AE8D0644E9685AF8A4204CA7F,
 	SR_Format_m7198B645F5C0A5E33F30AEF003C1F1D1415A9F86,
-	AesManaged__ctor_mDE017C6ECB4AF587B6C2A7A4BCBB2E0FA3E81241,
-	AesManaged_get_FeedbackSize_m64E5628557B4EF7068388EE50E431E102BA48CF9,
-	AesManaged_get_IV_m3CF0BDF7CC0EA199B5EE57F2CBD97404842C0D0B,
-	AesManaged_set_IV_m7063E5F586634E8B2C1DB1FD9D8D745BFAFD57A7,
-	AesManaged_get_Key_m2E60F74962BECA399636BDC297DF3AD2386D92DF,
-	AesManaged_set_Key_m4FC5EDB90F6003EE726496D1A374AD0AD5B9911D,
-	AesManaged_get_KeySize_mD9766E2E53FB15EA3761BF801D3ED2BC938A667F,
-	AesManaged_set_KeySize_m2E4BE0748CCF8473E2AFE656DFBB143845FD1BE7,
-	AesManaged_get_Mode_m3B58BE00374E135C8B9F27B1CD481B91E59993E5,
-	AesManaged_set_Mode_m154C8319F26FA466C54C7B2BDA602909EEA258C0,
-	AesManaged_get_Padding_mF366F82D52635E2A5DA750541D7903E5FF1659C2,
-	AesManaged_set_Padding_m9D52DA6A45835F49CC4385AC2767AA3A83C01BE3,
-	AesManaged_CreateDecryptor_m68C406635252C68B27FBDB1356574A3B5DEE25DB,
-	AesManaged_CreateDecryptor_m3E4110743E227B1B7568B7D497573631E26C3246,
-	AesManaged_CreateEncryptor_mBC3DC59E0DF5DC791B45806DE319EAF3DDB0E646,
-	AesManaged_CreateEncryptor_mB200E46332CFFD19367E042932042F4A1DFFD5AF,
-	AesManaged_Dispose_m2C247F5F1B5CCB32C545F4DEE427295C801D7619,
-	AesManaged_GenerateIV_m3B6E3EEFAA38CEF038DA0D5FF64B1B120343EBF4,
-	AesManaged_GenerateKey_m6AC884BFD7DEA4A22DAD79479E69DF34BED96B33,
-	AesCryptoServiceProvider__ctor_m9D6C427427E5B697AE1C37D2BFCAEF0BECB6C198,
-	AesCryptoServiceProvider_GenerateIV_mE464DEEC37B9CA36588D409C16AEF59E4B570239,
-	AesCryptoServiceProvider_GenerateKey_m1168A3D594466B39BFB601A670B444E05A1AA3D2,
-	AesCryptoServiceProvider_CreateDecryptor_mEF140D70C76BF0EBCD5B70270E590C87AC82691B,
-	AesCryptoServiceProvider_CreateEncryptor_m5974B7BE1CBA7D7CEA83DA32396470FDA6F89817,
-	AesCryptoServiceProvider_get_IV_m2FC301A6EB3295F1D815884C7DB9A6D250B5C748,
-	AesCryptoServiceProvider_set_IV_m33319C5603EE9537BA68A62AEE48AB3971FFDED0,
-	AesCryptoServiceProvider_get_Key_mC5E58ADED610CDB91EC45DD8F5ED5C7100F57763,
-	AesCryptoServiceProvider_set_Key_mE9C9F3CADC14E6E6AAD77C7EAB16CD12BDD65A72,
-	AesCryptoServiceProvider_get_KeySize_m1CA3AF07D7F43FD7E53501B4CC147FDE40105237,
-	AesCryptoServiceProvider_set_KeySize_mCA930D57B9D87A2FCDA3EA3F64C0BA6AFB9DD5FE,
-	AesCryptoServiceProvider_get_FeedbackSize_mA75F139C56BE26803358D8F55F503C440CF60896,
-	AesCryptoServiceProvider_get_Mode_m2C4AF6018029680736D3CC1677844A5E07C2C8AC,
-	AesCryptoServiceProvider_set_Mode_m8A46A629A129042D257241F376A5ADF7399E0E4D,
-	AesCryptoServiceProvider_get_Padding_m0970C4CE846AA57A6ED95AFAED915A2511188F8E,
-	AesCryptoServiceProvider_set_Padding_m4B055E68544EC094942F624AA7725B5DDE383994,
-	AesCryptoServiceProvider_CreateDecryptor_mF13EB3E91096FD373E2FEAC578BD8E5A51D16289,
-	AesCryptoServiceProvider_CreateEncryptor_m6FBFBED01A28E05CB49165B5E5A73302B9FF99D1,
-	AesCryptoServiceProvider_Dispose_mA4070CD6F1FE6E6BDFE951DB89A5945E69E5C6F1,
-	AesTransform__ctor_mE07BFBE72989989ACB3B6E9B8E9E721C9C506230,
-	AesTransform_ECB_mDDB23F9CE0C18DC39E4CDB8EB2B3BADE8720D9E4,
-	AesTransform_SubByte_m60B33BA16B1E903228D4E1D617406447361AF4B9,
-	AesTransform_Encrypt128_m13E7312EDC83EA276711B00930214389563B443D,
-	AesTransform_Decrypt128_m816017B5640FB6B39593703AE4468166D52C88BE,
-	AesTransform__cctor_m79025F31553E42B9E7035CCC3263B58528C69045,
-	RSACertificateExtensions_GetRSAPublicKey_m8DDF940D409724E136FD6E36146F4E481DC07B54,
 	Error_ArgumentNull_m1141D2C9AF8AB6ACC45E7488789598C5283D4EEE,
 	Error_ArgumentOutOfRange_m7B22062E664153625DA782374A7CB9CBD3B2C01D,
 	Error_NoElements_m49C996124733B026EA2FDBE9382AAD136CA22362,
@@ -189,8 +97,6 @@ static Il2CppMethodPointer s_methodPointers[383] =
 	NULL,
 	Enumerable_Min_m3D3C3E5CE25D27D94448CA832FB5AB9F702D5443,
 	Enumerable_Max_mF33848068459BE74BF534D16F6B678BB677EE704,
-	NULL,
-	NULL,
 	NULL,
 	NULL,
 	NULL,
@@ -471,60 +377,14 @@ static Il2CppMethodPointer s_methodPointers[383] =
 	NULL,
 	NULL,
 };
-static const int32_t s_InvokerIndices[383] = 
+static const int32_t s_InvokerIndices[335] = 
 {
-	30870,
-	27017,
-	19912,
-	19595,
-	19684,
-	15156,
-	19684,
-	15156,
-	19595,
-	15070,
-	19595,
-	15070,
-	19595,
-	15070,
-	19684,
-	5814,
-	19684,
-	5814,
-	14920,
-	19912,
-	19912,
-	19912,
-	19912,
-	19912,
-	5814,
-	5814,
-	19684,
-	15156,
-	19684,
-	15156,
-	19595,
-	15070,
-	19595,
-	19595,
-	15070,
-	19595,
-	15070,
-	19684,
-	19684,
-	14920,
-	2416,
-	7779,
-	13511,
-	3489,
-	3489,
-	32769,
-	30870,
-	30870,
-	30870,
-	32665,
-	32665,
-	32665,
+	26110,
+	29903,
+	29903,
+	31667,
+	31667,
+	31667,
 	-1,
 	-1,
 	-1,
@@ -563,8 +423,8 @@ static const int32_t s_InvokerIndices[383] =
 	-1,
 	-1,
 	-1,
-	26994,
-	26994,
+	26088,
+	26088,
 	-1,
 	-1,
 	-1,
@@ -573,8 +433,8 @@ static const int32_t s_InvokerIndices[383] =
 	-1,
 	-1,
 	-1,
-	30634,
-	30634,
+	29691,
+	29691,
 	-1,
 	-1,
 	-1,
@@ -697,16 +557,16 @@ static const int32_t s_InvokerIndices[383] =
 	-1,
 	-1,
 	-1,
+	14481,
+	19188,
+	18729,
+	18875,
+	19188,
+	18964,
+	18964,
+	18964,
 	-1,
 	-1,
-	15070,
-	19912,
-	19444,
-	19595,
-	19912,
-	19684,
-	19684,
-	19684,
 	-1,
 	-1,
 	-1,
@@ -780,24 +640,22 @@ static const int32_t s_InvokerIndices[383] =
 	-1,
 	-1,
 	-1,
+	18875,
+	31771,
+	29903,
+	18964,
+	18964,
+	18964,
+	29903,
+	18964,
 	-1,
 	-1,
-	19595,
-	32769,
-	30870,
-	19684,
-	19684,
-	19684,
-	30870,
-	19684,
-	-1,
-	-1,
-	32665,
-	6259,
-	7769,
-	15070,
-	10778,
-	30630,
+	31667,
+	5920,
+	7390,
+	14481,
+	10313,
+	29687,
 	-1,
 	-1,
 	-1,
@@ -857,100 +715,98 @@ static const int32_t s_InvokerIndices[383] =
 	-1,
 	-1,
 };
-static const Il2CppTokenRangePair s_rgctxIndices[92] = 
+static const Il2CppTokenRangePair s_rgctxIndices[90] = 
 {
-	{ 0x02000009, { 274, 6 } },
-	{ 0x0200000A, { 280, 14 } },
-	{ 0x0200000B, { 298, 12 } },
-	{ 0x0200000C, { 314, 17 } },
-	{ 0x0200000D, { 335, 20 } },
-	{ 0x0200000E, { 361, 17 } },
-	{ 0x0200000F, { 384, 22 } },
-	{ 0x02000010, { 412, 4 } },
-	{ 0x02000011, { 416, 8 } },
-	{ 0x02000012, { 424, 18 } },
-	{ 0x02000013, { 442, 11 } },
-	{ 0x02000014, { 453, 14 } },
-	{ 0x02000015, { 467, 15 } },
-	{ 0x02000016, { 482, 15 } },
-	{ 0x02000017, { 497, 9 } },
-	{ 0x02000018, { 506, 7 } },
-	{ 0x02000019, { 513, 7 } },
-	{ 0x0200001B, { 520, 4 } },
-	{ 0x0200001C, { 524, 5 } },
-	{ 0x0200001D, { 529, 4 } },
-	{ 0x02000020, { 533, 24 } },
-	{ 0x02000021, { 566, 11 } },
-	{ 0x02000022, { 577, 4 } },
-	{ 0x02000023, { 581, 4 } },
-	{ 0x02000024, { 585, 14 } },
-	{ 0x02000026, { 599, 11 } },
-	{ 0x02000027, { 610, 7 } },
-	{ 0x02000028, { 621, 10 } },
-	{ 0x02000029, { 631, 14 } },
-	{ 0x0200002A, { 645, 5 } },
-	{ 0x0200002B, { 650, 15 } },
-	{ 0x0200002C, { 665, 11 } },
-	{ 0x02000039, { 676, 5 } },
-	{ 0x0200003D, { 681, 63 } },
-	{ 0x02000040, { 744, 7 } },
-	{ 0x06000035, { 0, 12 } },
-	{ 0x06000036, { 12, 14 } },
-	{ 0x06000037, { 26, 5 } },
-	{ 0x06000038, { 31, 7 } },
-	{ 0x06000039, { 38, 4 } },
-	{ 0x0600003A, { 42, 5 } },
-	{ 0x0600003B, { 47, 6 } },
-	{ 0x0600003C, { 53, 6 } },
-	{ 0x0600003D, { 59, 4 } },
-	{ 0x0600003E, { 63, 9 } },
-	{ 0x0600003F, { 72, 2 } },
-	{ 0x06000040, { 74, 3 } },
-	{ 0x06000041, { 77, 3 } },
-	{ 0x06000042, { 80, 4 } },
-	{ 0x06000043, { 84, 3 } },
-	{ 0x06000044, { 87, 4 } },
-	{ 0x06000045, { 91, 3 } },
-	{ 0x06000046, { 94, 4 } },
-	{ 0x06000047, { 98, 2 } },
-	{ 0x06000048, { 100, 3 } },
-	{ 0x06000049, { 103, 3 } },
-	{ 0x0600004A, { 106, 10 } },
-	{ 0x0600004B, { 116, 1 } },
-	{ 0x0600004C, { 117, 6 } },
-	{ 0x0600004D, { 123, 3 } },
-	{ 0x0600004E, { 126, 6 } },
-	{ 0x0600004F, { 132, 15 } },
-	{ 0x06000050, { 147, 2 } },
-	{ 0x06000051, { 149, 3 } },
-	{ 0x06000052, { 152, 2 } },
-	{ 0x06000053, { 154, 3 } },
-	{ 0x06000054, { 157, 9 } },
-	{ 0x06000055, { 166, 7 } },
-	{ 0x06000056, { 173, 9 } },
-	{ 0x06000057, { 182, 7 } },
-	{ 0x06000058, { 189, 9 } },
-	{ 0x06000059, { 198, 9 } },
-	{ 0x0600005A, { 207, 7 } },
-	{ 0x0600005D, { 214, 4 } },
-	{ 0x0600005E, { 218, 3 } },
-	{ 0x0600005F, { 221, 7 } },
-	{ 0x06000060, { 228, 7 } },
-	{ 0x06000061, { 235, 5 } },
-	{ 0x06000062, { 240, 7 } },
-	{ 0x06000063, { 247, 6 } },
-	{ 0x06000064, { 253, 10 } },
-	{ 0x06000067, { 263, 3 } },
-	{ 0x06000068, { 266, 4 } },
-	{ 0x06000069, { 270, 4 } },
-	{ 0x06000079, { 294, 4 } },
-	{ 0x0600007E, { 310, 4 } },
-	{ 0x06000083, { 331, 4 } },
-	{ 0x06000089, { 355, 6 } },
-	{ 0x0600008E, { 378, 6 } },
-	{ 0x06000093, { 406, 6 } },
-	{ 0x060000F2, { 557, 9 } },
-	{ 0x06000122, { 617, 4 } },
+	{ 0x02000005, { 266, 6 } },
+	{ 0x02000006, { 272, 14 } },
+	{ 0x02000007, { 290, 12 } },
+	{ 0x02000008, { 306, 17 } },
+	{ 0x02000009, { 327, 20 } },
+	{ 0x0200000A, { 353, 17 } },
+	{ 0x0200000B, { 376, 22 } },
+	{ 0x0200000C, { 404, 4 } },
+	{ 0x0200000D, { 408, 8 } },
+	{ 0x0200000E, { 416, 18 } },
+	{ 0x0200000F, { 434, 11 } },
+	{ 0x02000010, { 445, 14 } },
+	{ 0x02000011, { 459, 15 } },
+	{ 0x02000012, { 474, 15 } },
+	{ 0x02000013, { 489, 9 } },
+	{ 0x02000014, { 498, 7 } },
+	{ 0x02000015, { 505, 7 } },
+	{ 0x02000017, { 512, 4 } },
+	{ 0x02000018, { 516, 5 } },
+	{ 0x02000019, { 521, 4 } },
+	{ 0x0200001C, { 525, 24 } },
+	{ 0x0200001D, { 558, 11 } },
+	{ 0x0200001E, { 569, 4 } },
+	{ 0x0200001F, { 573, 4 } },
+	{ 0x02000020, { 577, 14 } },
+	{ 0x02000022, { 591, 11 } },
+	{ 0x02000023, { 602, 7 } },
+	{ 0x02000024, { 613, 10 } },
+	{ 0x02000025, { 623, 14 } },
+	{ 0x02000026, { 637, 5 } },
+	{ 0x02000027, { 642, 15 } },
+	{ 0x02000028, { 657, 11 } },
+	{ 0x02000035, { 668, 5 } },
+	{ 0x02000039, { 673, 63 } },
+	{ 0x0200003C, { 736, 7 } },
+	{ 0x06000007, { 0, 12 } },
+	{ 0x06000008, { 12, 14 } },
+	{ 0x06000009, { 26, 5 } },
+	{ 0x0600000A, { 31, 7 } },
+	{ 0x0600000B, { 38, 4 } },
+	{ 0x0600000C, { 42, 5 } },
+	{ 0x0600000D, { 47, 6 } },
+	{ 0x0600000E, { 53, 6 } },
+	{ 0x0600000F, { 59, 4 } },
+	{ 0x06000010, { 63, 9 } },
+	{ 0x06000011, { 72, 2 } },
+	{ 0x06000012, { 74, 3 } },
+	{ 0x06000013, { 77, 3 } },
+	{ 0x06000014, { 80, 4 } },
+	{ 0x06000015, { 84, 3 } },
+	{ 0x06000016, { 87, 4 } },
+	{ 0x06000017, { 91, 3 } },
+	{ 0x06000018, { 94, 4 } },
+	{ 0x06000019, { 98, 2 } },
+	{ 0x0600001A, { 100, 3 } },
+	{ 0x0600001B, { 103, 3 } },
+	{ 0x0600001C, { 106, 10 } },
+	{ 0x0600001D, { 116, 1 } },
+	{ 0x0600001E, { 117, 6 } },
+	{ 0x0600001F, { 123, 3 } },
+	{ 0x06000020, { 126, 6 } },
+	{ 0x06000021, { 132, 15 } },
+	{ 0x06000022, { 147, 2 } },
+	{ 0x06000023, { 149, 3 } },
+	{ 0x06000024, { 152, 2 } },
+	{ 0x06000025, { 154, 3 } },
+	{ 0x06000026, { 157, 9 } },
+	{ 0x06000027, { 166, 7 } },
+	{ 0x06000028, { 173, 9 } },
+	{ 0x06000029, { 182, 7 } },
+	{ 0x0600002A, { 189, 9 } },
+	{ 0x0600002B, { 198, 9 } },
+	{ 0x0600002C, { 207, 7 } },
+	{ 0x0600002F, { 214, 4 } },
+	{ 0x06000030, { 218, 3 } },
+	{ 0x06000031, { 221, 7 } },
+	{ 0x06000032, { 228, 7 } },
+	{ 0x06000033, { 235, 5 } },
+	{ 0x06000034, { 240, 7 } },
+	{ 0x06000035, { 247, 6 } },
+	{ 0x06000036, { 253, 10 } },
+	{ 0x06000039, { 263, 3 } },
+	{ 0x06000049, { 286, 4 } },
+	{ 0x0600004E, { 302, 4 } },
+	{ 0x06000053, { 323, 4 } },
+	{ 0x06000059, { 347, 6 } },
+	{ 0x0600005E, { 370, 6 } },
+	{ 0x06000063, { 398, 6 } },
+	{ 0x060000C2, { 549, 9 } },
+	{ 0x060000F2, { 609, 4 } },
 };
 extern const uint32_t g_rgctx_IEnumerable_1_t3AF8F557A5415169D4617DBCB1364D33309B7891;
 extern const uint32_t g_rgctx_Func_2_tD2F5833EE6E6464E0A5DF0D394FCC308F9B20D62;
@@ -1218,14 +1074,6 @@ extern const uint32_t g_rgctx_IEqualityComparer_1_Equals_mBA41CDA0188EDB9E4464E0
 extern const uint32_t g_rgctx_IEnumerable_1_tA1664FE27A3D2F0011A32FA06D8296D0C399B280;
 extern const uint32_t g_rgctx_Func_2_t0CDE3FC5519CE823271633D82D94085A13523C11;
 extern const uint32_t g_rgctx_Enumerable_Select_TisTSource_tF87D24CDBA550DEE35EB9FA1FA8D057E4B578FE1_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m352AFE4BDA32912D188376BEEC003C440A1ECEF6;
-extern const uint32_t g_rgctx_IEnumerable_1_t35F11FEF57FB088A719FCE58725343C361E94A88;
-extern const uint32_t g_rgctx_Enumerable_ToHashSet_TisTSource_t14EF035D3B2144D7BDF3C86F500E8C42C639824D_m582F76D3EAAE20C51F9ADB2C8B9885D20CED8992;
-extern const uint32_t g_rgctx_IEqualityComparer_1_tD9807FD7A28EE6B79FEE667826F748139A3E8B36;
-extern const uint32_t g_rgctx_HashSet_1_t0024F4A140CBB776AC761B0D1F50C2546F6FC810;
-extern const uint32_t g_rgctx_IEnumerable_1_t40AA1459DEA9A1F9AFBE5C864C2BDC2F98D466AC;
-extern const uint32_t g_rgctx_IEqualityComparer_1_t35878E24B0605B49497C29953699FD785D2854E1;
-extern const uint32_t g_rgctx_HashSet_1_t6CEAC8CB85165BA360B00F8D54F0D3F684F30E74;
-extern const uint32_t g_rgctx_HashSet_1__ctor_m22EC99CECC69947E5701C647E1AE12A1C9C6BC83;
 extern const uint32_t g_rgctx_Iterator_1_t8E009DFA0514DB4E4987BB392D13A5A8170ECCE4;
 extern const uint32_t g_rgctx_TSource_tE11DAFD922BE8DFEB5489CBD1813EB0466BC3D79;
 extern const uint32_t g_rgctx_Iterator_1_Clone_m06A7D1B0BDA308E69987DDED84FFC6B95859AA62;
@@ -1703,7 +1551,7 @@ extern const uint32_t g_rgctx_SlotU5BU5D_t60EAC05F1274FA013F450CFD354680AA56C10E
 extern const uint32_t g_rgctx_Slot_t58F6F802D1D0CF12016B76609C3A54B33273FD13;
 extern const uint32_t g_rgctx_Enumerator_get_Current_m6F22509C5AEA1EA15942F7F9C9866256CB3EA347;
 extern const uint32_t g_rgctx_Enumerator_tB091A59F0E047A76EF2099D441944326FE3C0B97;
-static const Il2CppRGCTXDefinition s_rgctxValues[751] = 
+static const Il2CppRGCTXDefinition s_rgctxValues[743] = 
 {
 	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_IEnumerable_1_t3AF8F557A5415169D4617DBCB1364D33309B7891 },
 	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_Func_2_tD2F5833EE6E6464E0A5DF0D394FCC308F9B20D62 },
@@ -1971,14 +1819,6 @@ static const Il2CppRGCTXDefinition s_rgctxValues[751] =
 	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_IEnumerable_1_tA1664FE27A3D2F0011A32FA06D8296D0C399B280 },
 	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_Func_2_t0CDE3FC5519CE823271633D82D94085A13523C11 },
 	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_Enumerable_Select_TisTSource_tF87D24CDBA550DEE35EB9FA1FA8D057E4B578FE1_TisInt32_t680FF22E76F6EFAD4375103CBBFFA0421349384C_m352AFE4BDA32912D188376BEEC003C440A1ECEF6 },
-	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_IEnumerable_1_t35F11FEF57FB088A719FCE58725343C361E94A88 },
-	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_Enumerable_ToHashSet_TisTSource_t14EF035D3B2144D7BDF3C86F500E8C42C639824D_m582F76D3EAAE20C51F9ADB2C8B9885D20CED8992 },
-	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_IEqualityComparer_1_tD9807FD7A28EE6B79FEE667826F748139A3E8B36 },
-	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_HashSet_1_t0024F4A140CBB776AC761B0D1F50C2546F6FC810 },
-	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_IEnumerable_1_t40AA1459DEA9A1F9AFBE5C864C2BDC2F98D466AC },
-	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_IEqualityComparer_1_t35878E24B0605B49497C29953699FD785D2854E1 },
-	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_HashSet_1_t6CEAC8CB85165BA360B00F8D54F0D3F684F30E74 },
-	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_HashSet_1__ctor_m22EC99CECC69947E5701C647E1AE12A1C9C6BC83 },
 	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_Iterator_1_t8E009DFA0514DB4E4987BB392D13A5A8170ECCE4 },
 	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_TSource_tE11DAFD922BE8DFEB5489CBD1813EB0466BC3D79 },
 	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_Iterator_1_Clone_m06A7D1B0BDA308E69987DDED84FFC6B95859AA62 },
@@ -2461,16 +2301,16 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_System_Core_CodeGenModule;
 const Il2CppCodeGenModule g_System_Core_CodeGenModule = 
 {
 	"System.Core.dll",
-	383,
+	335,
 	s_methodPointers,
 	0,
 	NULL,
 	s_InvokerIndices,
 	0,
 	NULL,
-	92,
+	90,
 	s_rgctxIndices,
-	751,
+	743,
 	s_rgctxValues,
 	NULL,
 	NULL,
