@@ -2,6 +2,8 @@
   "dependencies": {
     "com.meta.xr.sdk.core": "201.0.0",
     "com.meta.xr.sdk.interaction.ovr": "201.0.0",
+    "com.unity.ai.assistant": "2.13.0-pre.2",
+    "com.unity.ai.inference": "2.6.1",
     "com.unity.ai.navigation": "2.0.12",
     "com.unity.cloud.gltfast": "6.19.0",
     "com.unity.collab-proxy": "2.12.4",
