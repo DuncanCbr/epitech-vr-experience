@@ -501,12 +501,6 @@
             "icon": null
           },
           {
-            "name": "ShaderVariantCollection",
-            "scenes": [],
-            "dependencyType": 0,
-            "icon": null
-          },
-          {
             "name": "SkinnedMeshRenderer",
             "scenes": [
               "Assets/Scenes/epitech_map.unity"
@@ -735,12 +729,6 @@
             "icon": "package/com.unity.modules.runtimeinitializeonloadmanagerinitializer"
           },
           {
-            "name": "Required by ScreenCapture Module",
-            "scenes": [],
-            "dependencyType": 2,
-            "icon": "package/com.unity.modules.screencapture"
-          },
-          {
             "name": "Required by Subsystems Module",
             "scenes": [],
             "dependencyType": 2,
@@ -918,14 +906,7 @@
       },
       {
         "name": "ImageConversion",
-        "dependencies": [
-          {
-            "name": "Required by ScreenCapture Module",
-            "scenes": [],
-            "dependencyType": 2,
-            "icon": "package/com.unity.modules.screencapture"
-          }
-        ]
+        "dependencies": []
       },
       {
         "name": "Input",
@@ -1233,10 +1214,6 @@
         ]
       },
       {
-        "name": "ScreenCapture",
-        "dependencies": []
-      },
-      {
         "name": "Scripting",
         "dependencies": [
           {
@@ -1382,12 +1359,6 @@
             "scenes": [],
             "dependencyType": 2,
             "icon": "package/com.unity.modules.runtimeinitializeonloadmanagerinitializer"
-          },
-          {
-            "name": "Required by ScreenCapture Module",
-            "scenes": [],
-            "dependencyType": 2,
-            "icon": "package/com.unity.modules.screencapture"
           },
           {
             "name": "Required by Subsystems Module",
@@ -1633,12 +1604,6 @@
             "scenes": [],
             "dependencyType": 2,
             "icon": "package/com.unity.modules.runtimeinitializeonloadmanagerinitializer"
-          },
-          {
-            "name": "Required by ScreenCapture Module",
-            "scenes": [],
-            "dependencyType": 2,
-            "icon": "package/com.unity.modules.screencapture"
           },
           {
             "name": "Required by Scripting Module",
