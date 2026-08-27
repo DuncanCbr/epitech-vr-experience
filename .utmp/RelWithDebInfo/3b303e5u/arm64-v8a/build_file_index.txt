@@ -1,0 +1,2 @@
+C:\Users\emeri\T-VIR-902-REN-3\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\emeri\T-VIR-902-REN-3\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
